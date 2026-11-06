@@ -1,0 +1,81 @@
+# TRANSBOOS — full content
+
+## Overview
+TRANSBOOS was founded by brake engineers who were tired of road-caliber parts failing on track. We build one thing, and only one thing, to an uncompromising standard: the ability to slow a fast car down, repeatedly, without drama. From a single workshop to a global distribution network, every TRANSBOOS kit is designed, tested and validated by people who actually race.
+
+## Tagline
+Precision Braking. Zero Compromise.
+
+### TB-MB Series Monoblock Calipers (Calipers)
+Forged. Rigid. Relentless.
+
+CNC-forged from a single billet of aerospace aluminium, the TB-MB monoblock eliminates flex under extreme clamp loads so pedal feel stays surgical from the first corner to the last.
+
+Highlights:
+- 4 / 6 / 8-pot configurations
+- Hard-anodised for corrosion resistance
+- Bolt-on brackets for 200+ applications
+- Staggered piston sizes to cut pad taper
+
+Specifications:
+- Material: Forged 6061-T6 aluminium
+- Piston options: 4 / 6 / 8
+- Finish: Type-III hard anodise
+- Weight (6-pot): 2.9 kg
+
+### TB-DR Slotted Floating Discs (Discs)
+Cooler rotors. Consistent bite.
+
+Directional slots evacuate gas and debris while the aluminium hat lets the ring float, reducing thermal warping and keeping bite stable through long sessions.
+
+Highlights:
+- Slotted & directional friction face
+- Aluminium floating bell
+- Geomet-coated to resist rust
+- Sizes 330–405 mm
+
+Specifications:
+- Diameter range: 330–405 mm
+- Construction: Floating 2-piece
+- Coating: GEOMET
+- Vanes: 48 curved internal
+
+### TB-RX Track Brake Pads (Pads)
+Fade-free by design.
+
+A sintered track compound with a high initial mu and a wide temperature window, giving a predictable, repeatable pedal from cold to 800 °C.
+
+Highlights:
+- Operating window 0–800 °C
+- High initial bite
+- Low compressibility
+- Track-day & sprint focused
+
+Specifications:
+- Compound: Sintered track
+- Peak μ: 0.52
+- Max temp: 800 °C
+- Bed-in: Required
+
+### TB-SS Line & Fluid Kits (Lines & Fluid)
+A rock-solid pedal.
+
+Stainless braided lines and a 320 °C dry-boiling-point fluid remove the sponge, holding pressure exactly where you put it under repeated heavy braking.
+
+Highlights:
+- PTFE-core braided lines
+- Dry boiling point 320 °C
+- Direct-fit banjo ends
+- Track & road kits
+
+Specifications:
+- Line: Stainless braided
+- Fluid BP (dry): 320 °C
+- Fittings: Anodised aluminium
+- Kit type: Axle / full car
+
+## Technology
+- Forged Monoblock: A single forged billet removes the flex and leak paths of multi-piece calipers, so clamp force goes to the pad — not into the casting.
+- Thermal Control: Curved internal vanes pump air through the disc, while floating bells let the ring expand freely and resist warping under heat.
+- Track Validation: Every compound and caliper is dyno-mapped then proven in endurance racing before it earns a part number.
+- Precision Manufacturing: Five-axis CNC, CMM inspection and batch traceability on every component we ship.

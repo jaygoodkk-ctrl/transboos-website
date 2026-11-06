@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://transboos.pages.dev/sitemap.xml
